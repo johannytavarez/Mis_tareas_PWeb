@@ -1,3 +1,3 @@
-mi tarea de ejemplo
+Esta es la tarea #1 de Johanny Tavarez, esta es la captura de pantalla:
 
-![captura](ejmplo de tarea.png)
+![captura](primeraPaginaWeb.png)
