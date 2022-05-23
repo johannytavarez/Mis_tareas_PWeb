@@ -1,0 +1,35 @@
+.texto{
+    border-style:groove ;
+    display: flex;
+
+}
+
+#presentacion{
+    padding: 20px;
+    background-color:darksalmon ;
+    color: black;
+}
+
+#cabecera{
+    padding: 30px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+#info{
+    font-size: 22px;
+    font-family: serif;
+}
+
+.imagen{
+    border-radius: 50% ;
+    width: 400px;
+    height: 400px ;
+    
+}
+
+.lista{
+    font-size: 22px;
+    font-family: serif;
+    border-style:groove ;
+}
